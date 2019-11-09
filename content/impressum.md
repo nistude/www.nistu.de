@@ -1,7 +1,6 @@
 ---
 title: "Impressum"
-date: 2019-08-20T13:22:43+02:00
-menu: "footer"
+date: 2019-11-09T19:27:17+01:00
 ---
 Angaben gemäß § 5 TMG
 
