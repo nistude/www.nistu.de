@@ -35,6 +35,11 @@ theme = "coder"
     url = "https://www.xing.com/profile/Nikolay_Sturm/"
 
 [[menu.main]]
-    name = "Impressum"
+    name = "Über mich"
     weight = 1
+    url = "/about/"
+
+[[menu.main]]
+    name = "Impressum"
+    weight = 2
     url = "/impressum/"
