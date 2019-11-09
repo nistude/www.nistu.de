@@ -1,0 +1,40 @@
+baseURL = "https://www.nistu.de/"
+languageCode = "de-de"
+title = "nistude"
+theme = "coder"
+
+[params]
+    author = "Nikolay Sturm"
+    info = "Multi-Ontology Sense-Making"
+    description = "Nikolay Sturm's private Webseite"
+    keywords = "cynefin,strategie,geld,finanzen,investieren"
+    avatarurl = "images/nikolay.jpg"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/nistude/"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/nistude/"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/nikolay-sturm-13459b3/"
+
+[[params.social]]
+    name = "Xing"
+    icon = "fab fa-xing"
+    weight = 4
+    url = "https://www.xing.com/profile/Nikolay_Sturm/"
+
+[[menu.main]]
+    name = "Impressum"
+    weight = 1
+    url = "/impressum/"
