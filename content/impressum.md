@@ -4,18 +4,18 @@ date: 2019-11-09T19:27:17+01:00
 ---
 Angaben gemäß § 5 TMG
 
-![Adresse](/images/adresse.png)
+![Adresse](/images/adresse-inverted.png)
 
 **Vertreten durch:**
 Nikolay Sturm
 
 **Kontakt:**
 
-![Kontakt](/images/kontakt.png)
+![Kontakt](/images/kontakt-inverted.png)
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
-![Adresse](/images/adresse.png)
+![Adresse](/images/adresse-inverted.png)
 
 ## Haftungsausschluss
 
