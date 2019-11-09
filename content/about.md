@@ -1,7 +1,6 @@
 ---
 title: "Über mich"
 date: 2019-11-09T19:27:17+01:00
-draft: true
 ---
 Moin moin und willkommen auf meiner kleinen Internet-Insel.
 
