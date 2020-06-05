@@ -11,8 +11,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   info = "Multi-Ontology Sense-Making"
   description = "Nikolay Sturm's private Webseite"
   keywords = "cynefin,strategie,geld,finanzen,investieren"
-  avatarurl = "images/nikolay.jpg"
-  colorscheme = "dark"
+  avatarURL = "images/nikolay.jpg"
+  colorScheme = "dark"
+  dateFormat = "2006-01-02"
 
   [[params.social]]
     name = "Github"
