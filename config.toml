@@ -47,11 +47,16 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     type = "application/rss+xml"
 
 [[menu.main]]
-    name = "Über mich"
+    name = "Blog"
     weight = 1
+    url = "/posts/"
+
+[[menu.main]]
+    name = "Über mich"
+    weight = 2
     url = "/about/"
 
 [[menu.main]]
     name = "Impressum"
-    weight = 2
+    weight = 3
     url = "/impressum/"
