@@ -1,7 +1,10 @@
 baseURL = "https://www.nistu.de/"
-languageCode = "de-de"
 title = "nistude"
 theme = "coder"
+languageCode = "de"
+defaultContentLanguage = "de"
+rssLimit = 1
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 [params]
     author = "Nikolay Sturm"
@@ -34,6 +37,14 @@ theme = "coder"
     icon = "fab fa-xing"
     weight = 4
     url = "https://www.xing.com/profile/Nikolay_Sturm/"
+
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss"
+    weight = 5
+    url = "index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
 
 [[menu.main]]
     name = "Über mich"
