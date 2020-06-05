@@ -9,7 +9,7 @@ theme = "coder"
     description = "Nikolay Sturm's private Webseite"
     keywords = "cynefin,strategie,geld,finanzen,investieren"
     avatarurl = "images/nikolay.jpg"
-    inverted = true
+    colorscheme = "dark"
 
 [[params.social]]
     name = "Github"
