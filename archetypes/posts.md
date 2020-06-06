@@ -1,8 +1,8 @@
 ---
 draft: true
-title: ""
-slug: ""
-summary: ""
+title:
+slug:
+summary:
 tags: []
 categories: []
 series: []
