@@ -15,6 +15,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   colorScheme = "dark"
   dateFormat = "2006-01-02"
 
+  footerContent = """
+  <a style=\"color: #dadada; font-size: 1.5rem; font-family: Lato,Helvetica,sans-serif; font-weight: 700;\" href=\"https://nistu.de/datenschutz\">Datenschutz</a>
+  <a style=\"color: #dadada; font-size: 1.5rem; font-family: Lato,Helvetica,sans-serif; font-weight: 700;\" href=\"https://nistu.de/impressum\">Impressum</a>
+  """
+
   [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
@@ -60,8 +65,13 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     url = "/about/"
 
   [[menu.main]]
-    name = "Impressum"
+    name = "Datenschutz"
     weight = 3
+    url = "/datenschutz/"
+
+  [[menu.main]]
+    name = "Impressum"
+    weight = 4
     url = "/impressum/"
 
 [privacy]
