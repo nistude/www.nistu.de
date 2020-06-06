@@ -5,6 +5,6 @@ slug: ""
 summary: ""
 tags: []
 categories: []
-series = []
+series: []
 date: {{ .Date }}
 ---
