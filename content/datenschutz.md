@@ -91,7 +91,7 @@ Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden
 
 **Eingesetzte Dienste und Diensteanbieter:**
 
-- **Webhosting**: Dienstanbieter: Render Services, Inc., 655 5th Street #19, San Francisco, CA 94107, USA; Website: <https://render.com/>; Datenschutzerklärung: <https://render.com/privacy>.
+- **Webhosting**: Dienstanbieter: Render Services, Inc., 655 5th Street 19, San Francisco, CA 94107, USA; Website: <https://render.com/>; Datenschutzerklärung: <https://render.com/privacy>.
 
 ## Blogs und Publikationsmedien
 
