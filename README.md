@@ -22,3 +22,9 @@ $ git pull
 $ cd ..
 $ git commit coders
 ```
+
+## Emoji for book reviews
+
+- good         👍
+- bad          👎
+- I don't know 🤷 or ¯\_(ツ)_/¯
