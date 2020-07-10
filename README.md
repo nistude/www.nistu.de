@@ -11,7 +11,7 @@ $ hugo serve -D
 ## Add new blog post
 
 ```
-$ hugo new posts/foo.md
+$ hugo new posts/$(date +"%Y%m%d").md
 ```
 
 ## Update theme
