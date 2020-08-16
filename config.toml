@@ -3,7 +3,7 @@ title = "nistude"
 theme = "coder"
 languageCode = "de"
 defaultContentLanguage = "de"
-rssLimit = 1
+rssLimit = 3
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 [params]
