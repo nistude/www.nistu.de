@@ -10,9 +10,9 @@ Stand: 5. Juni 2020
 
 ## Verantwortlicher
 
-![Adresse](/images/adresse-inverted.png)
+![Adresse](/images/adresse.png)
 
-![Kontat](/images/kontakt-inverted.png)
+![Kontat](/images/kontakt.png)
 
 **Impressum**: <https://www.nistu.de/impressum>
 

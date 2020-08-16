@@ -12,8 +12,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   description = "Nikolay Sturm's private Webseite"
   keywords = "decision-making,strategy"
   avatarURL = "images/nikolay.jpg"
-  colorScheme = "dark"
   dateFormat = "2006-01-02"
+  colorScheme = "light"
 
   footerContent = """
   <a style=\"color: #dadada; font-size: 1.5rem; font-family: Lato,Helvetica,sans-serif; font-weight: 700;\" href=\"https://nistu.de/datenschutz\">Datenschutz</a>
