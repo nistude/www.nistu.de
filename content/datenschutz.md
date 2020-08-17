@@ -97,6 +97,21 @@ Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden
 
 Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium"). Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.
 
+**DISQUS-Kommentarfunktion**: Wir setzen auf Grundlage unserer berechtigten Interessen an einer effizienten, sicheren und nutzerfreundlichen Kommentarverwaltung den Kommentardienst DISQUS ein.
+
+Zur Nutzung der DISQUS Kommentarfunktion können Nutzer sich über ein eigenes DISQUS-Nutzer-Konto oder ein bestehendes Social-Media-Konto (z.B. OpenID, Facebook, Twitter oder Google) anmelden. Die Anmeldedaten der Nutzer werden durch DISQUS von den Plattformen bezogen. Es ist ebenfalls möglich, die DISQUS-Kommentarfunktion als Gast, ohne Erstellung oder Verwendung eines Nutzerkontos bei DISQUS oder einem der angegebenen Social-Media-Anbieter, zu nutzen.
+
+Wir betten lediglich DISQUS mit seinen Funktionen in unsere Webseite ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS ein, in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für eine etwaige Löschung der Daten der Nutzer ist. Wir verweisen auf die Datenschutzerklärung von DISQUS und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert. Ebenfalls können Cookies auf den Rechnern der Nutzer gespeichert und zur Darstellung von Werbung genutzt werden.
+
+- **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+- **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+- **Zwecke der Verarbeitung:** Vertragliche Leistungen und Service, Feedback (z.B. Sammeln von Feedback via Online-Formular), Sicherheitsmaßnahmen, Verwaltung und Beantwortung von Anfragen.
+- **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO), Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Schutz lebenswichtiger Interessen (Art. 6 Abs. 1 S. 1 lit. d. DSGVO).
+
+**Eingesetzte Dienste und Diensteanbieter:**
+- **DISQUS-Kommentarfunktion:** Dienstanbieter: DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA; Website: <https://disqus.com/>; Datenschutzerklärung: <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>; Widerspruchsmöglichkeit (Opt-Out): <https://disqus.com/data-sharing-settings>.
+
+
 ## Kontaktaufnahme
 
 Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via soziale Medien) werden die Angaben der anfragenden Personen verarbeitet, soweit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist.
