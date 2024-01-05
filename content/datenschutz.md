@@ -1,4 +1,7 @@
-# Datenschutzerklärung
+---
+title: Datenschutzerklärung
+date: 2024-01-05T15:46:20+01:00
+---
 
 ## Einleitung
 
@@ -6,7 +9,7 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 
 Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
-Stand: 5. Juni 2020
+Stand: 5. Januar 2024
 
 ## Verantwortlicher
 
@@ -14,17 +17,12 @@ Stand: 5. Juni 2020
 
 ![Kontat](/images/kontakt.png)
 
-**Impressum**: <https://www.nistu.de/impressum>
-
 ## Übersicht der Verarbeitungen
 
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
 
 ### Arten der verarbeiteten Daten
 
-- Bestandsdaten (z.B. Namen, Adressen).
-- Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos).
-- Kontaktdaten (z.B. E-Mail, Telefonnummern).
 - Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 - Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
 
@@ -37,7 +35,6 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 
 - Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
 - Content Delivery Network (CDN).
-- Feedback (z.B. Sammeln von Feedback via Online-Formular).
 - Kontaktanfragen und Kommunikation.
 - Sicherheitsmaßnahmen.
 - Vertragliche Leistungen und Service.
@@ -95,22 +92,14 @@ Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden
 
 ## Blogs und Publikationsmedien
 
-Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium"). Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.
+Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium").
+Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist.
+Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.
 
-**DISQUS-Kommentarfunktion**: Wir setzen auf Grundlage unserer berechtigten Interessen an einer effizienten, sicheren und nutzerfreundlichen Kommentarverwaltung den Kommentardienst DISQUS ein.
-
-Zur Nutzung der DISQUS Kommentarfunktion können Nutzer sich über ein eigenes DISQUS-Nutzer-Konto oder ein bestehendes Social-Media-Konto (z.B. OpenID, Facebook, Twitter oder Google) anmelden. Die Anmeldedaten der Nutzer werden durch DISQUS von den Plattformen bezogen. Es ist ebenfalls möglich, die DISQUS-Kommentarfunktion als Gast, ohne Erstellung oder Verwendung eines Nutzerkontos bei DISQUS oder einem der angegebenen Social-Media-Anbieter, zu nutzen.
-
-Wir betten lediglich DISQUS mit seinen Funktionen in unsere Webseite ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS ein, in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für eine etwaige Löschung der Daten der Nutzer ist. Wir verweisen auf die Datenschutzerklärung von DISQUS und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert. Ebenfalls können Cookies auf den Rechnern der Nutzer gespeichert und zur Darstellung von Werbung genutzt werden.
-
-- **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
-- **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
-- **Zwecke der Verarbeitung:** Vertragliche Leistungen und Service, Feedback (z.B. Sammeln von Feedback via Online-Formular), Sicherheitsmaßnahmen, Verwaltung und Beantwortung von Anfragen.
-- **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO), Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Schutz lebenswichtiger Interessen (Art. 6 Abs. 1 S. 1 lit. d. DSGVO).
-
-**Eingesetzte Dienste und Diensteanbieter:**
-- **DISQUS-Kommentarfunktion:** Dienstanbieter: DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA; Website: <https://disqus.com/>; Datenschutzerklärung: <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>; Widerspruchsmöglichkeit (Opt-Out): <https://disqus.com/data-sharing-settings>.
-
+**Verarbeitete Datenarten**: Bestandsdaten (z. B. Namen, Adressen); Kontaktdaten (z. B. E-Mail, Telefonnummern); Inhaltsdaten (z. B. Eingaben in Onlineformularen); Nutzungsdaten (z. B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. .B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).
+**Betroffene Personen**: Nutzer (z. .B. Webseitenbesucher, Nutzer von Onlinediensten).
+**Zwecke der Verarbeitung**: Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Feedback (z. B. Sammeln von Feedback via Online-Formular). Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+**Rechtsgrundlagen**: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
 ## Kontaktaufnahme
 
@@ -122,24 +111,6 @@ Die Beantwortung der Kontaktanfragen im Rahmen von vertraglichen oder vorvertrag
 - **Betroffene Personen:** Kommunikationspartner.
 - **Zwecke der Verarbeitung:** Kontaktanfragen und Kommunikation.
 - **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
-
-## Plugins und eingebettete Funktionen sowie Inhalte
-
-Wir binden in unser Onlineangebot Funktions- und Inhaltselemente ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter”) bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Social-Media-Schaltflächen sowie Beiträge handeln (nachfolgend einheitlich bezeichnet als "Inhalte”).
-
-Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-Adresse der Nutzer verarbeiten, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte oder Funktionen erforderlich. Wir bemühen uns, nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner sogenannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Webseite, ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und zum Betriebssystem, zu verweisenden Webseiten, zur Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten als auch mit solchen Informationen aus anderen Quellen verbunden werden.
-
-**Hinweise zu Rechtsgrundlagen:** Sofern wir die Nutzer um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
-
-- **Verarbeitete Datenarten:** Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
-- **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
-- **Zwecke der Verarbeitung:** Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit, Vertragliche Leistungen und Service.
-- **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
-
-**Eingesetzte Dienste und Diensteanbieter:**
-
-- **Font Awesome:** Darstellung von Schriftarten und Symbolen; Dienstanbieter: Fonticons, Inc. ,6 Porter Road Apartment 3R, Cambridge, MA 02140, USA; Website: <https://fontawesome.com/>; Datenschutzerklärung: <https://fontawesome.com/privacy>.
-- **Google Fonts:** Wir binden die Schriftarten ("Google Fonts") des Anbieters Google ein, wobei die Daten der Nutzer allein zu Zwecken der Darstellung der Schriftarten im Browser der Nutzer verwendet werden. Die Einbindung erfolgt auf Grundlage unserer berechtigten Interessen an einer technisch sicheren, wartungsfreien und effizienten Nutzung von Schriftarten, deren einheitlicher Darstellung sowie unter Berücksichtigung möglicher lizenzrechtlicher Restriktionen für deren Einbindung. Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: <https://fonts.google.com/>; Datenschutzerklärung: <https://policies.google.com/privacy>; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): <https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>.
 
 ## Löschung von Daten
 

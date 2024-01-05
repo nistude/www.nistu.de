@@ -1,0 +1,18 @@
+baseURL: https://www-nistu-de-pr-1.onrender.com
+languageCode: en-us
+title: Nikolay Sturm
+theme: notrack
+defaultContentLanguage: en-us
+
+params:
+  author: Nikolay Sturm
+  showBlogLatest: false
+  showTaxonomyLinks: false
+  footer: |
+    This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+    <a href="/datenschutz">Privacy Policy</a>
+
+  social:
+    email: sturm@nistu.de
+    linkedin: nikolay-sturm-13459b3
+    # rss: ""
