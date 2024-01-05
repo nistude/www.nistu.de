@@ -1,7 +1,6 @@
 ---
 title: ""
 date: 2024-01-05T15:46:20+01:00
-draft: true
 ---
 
 {{< image float="right" frame="true" width="11em" src="/images/nikolay.jpg" alt="Picture of Nikolay Sturm" >}}
